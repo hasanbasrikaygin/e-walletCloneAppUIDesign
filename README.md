@@ -1,6 +1,6 @@
 # e-walletCloneAppUIDesign
 Flutter UI Design Clone 
-#Projede kullanılan kütüphaneler:
+Projede kullanılan kütüphaneler:
 card_swiper: ^1.0.4
 simple_animations: ^4.0.1
 supercharged: ^2.1.1
